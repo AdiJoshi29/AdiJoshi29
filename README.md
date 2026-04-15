@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Joshi
-- ✅ I’m interested in Data Science, Machine Learning and Natural Language Processing
-- 🌱 I’m currently learning Federated Learning
+- ✅ I’m interested in Optimising Machine Learning and AI
+- 🌱 I’m currently learning Extreme Compression and Quantisation
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aditya-joshi-ba9b08212/)
 
 <!---
